@@ -1,4 +1,14 @@
 # set-up-guide
+個人的な環境構築メモです。<br>
+**もしかしたら** 誰かの役に立つかも？
+
+- [set-up-guide](#set-up-guide)
+    - [おすすめサイト](#おすすめサイト)
+    - [pyenv](#pyenv)
+    - [poetry](#poetry)
+
+### おすすめサイト
+- [研究のためのPython開発環境](https://zenn.dev/zenizeni/books/a64578f98450c2)
 
 ### pyenv
 ```
