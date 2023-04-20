@@ -46,3 +46,17 @@ current python version (3.10.10) is not allowed by the project (^3.11). please c
 poetry env use 3.xx.x
 ```
 とアップデートする.
+
+
+こんなエラーが出る時も。
+```
+❯ poetry
+zsh: command not found: poetry
+```
+
+その時は
+```
+export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/.local/bin:$PATH"
+source ~/.zshrc
+```
